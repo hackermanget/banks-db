@@ -1,0 +1,13 @@
+// banks/my-country/my-bank.json
+  {
+    "name": "my-bank",
+    "country": "mx",
+    "localTitle": "bbva bancomer",
+    "engTitle": "bbva bancomer",
+    "url": "https://www.bbva.mx/",
+    "color": "#000",
+    "prefixes": [
+      12345,
+      123456,
+    ]
+  }
